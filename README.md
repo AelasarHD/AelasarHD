@@ -1,18 +1,45 @@
+<h1 align="center">✨ Welcome, To My Profile 👋</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/Rp0U7bdOhSUAAAAj/anime.gif" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aelasarHD&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 🚀 About Me
+💡 I’m passionate about **building scalable apps, automation, and DevOps stuff**.  
+🌱 Currently exploring **Cloud, Web3 & High-Performance Systems**.  
+🎯 Goal: **make ideas real and share knowledge**.  
+⚡ Fun fact: I can spend hours perfecting my configs 😅  
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,html,java,js,nodejs,ts,mysql,bash" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aelasarHD&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
  
-# ✨ About Me
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelasarHD&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+---
 
-🚀 - Founder and CEO Of Bitverse <br>
-🖥️ - 8700K, 1080 Ti (Arch Linux, KDE)<br>
-💻 - MacBook Pro 16", 2019 (macOS 15)<br>
-💤 - Either asleep, either extremely busy<br>
+## 📫 Contact
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
-
-
-
-# 📊 Activity:
-![](https://nirzak-streak-stats.vercel.app/?user=aelasarHD&theme=codeSTACKr&hide_border=false)<br/>
-
-
---- 
+---

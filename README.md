@@ -15,7 +15,7 @@
 💡 I’m passionate about **building scalable apps, automation, and DevOps stuff**.  
 🌱 Currently exploring **Cloud, Web3 & High-Performance Systems**.  
 🎯 Goal: **make ideas real and share knowledge**.  
-⚡ Fun fact: I can spend hours perfecting my configs 😅  
+⚡ Fun fact: I can spend hours perfecting my configs.
 
 ---
 

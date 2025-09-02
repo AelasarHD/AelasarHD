@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome, To My Profile 👋</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/Rp0U7bdOhSUAAAAj/anime.gif" alt="Typing SVG" />
+  <img src="https://media.tenor.com/492-Kwhg88sAAAAj/menhera-chan.gif" height=200px width=200px />
 </p>
 
 

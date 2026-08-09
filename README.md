@@ -11,11 +11,11 @@
 ---
 
 ### 🖋 About Me
-> **Live. Build something serious.**
+> **Every day is a progress.**
 
 *   **Current focus:** Crafting clean code and exploring new tech.
-*   **Hardware:** MacBook Pro 16 (i9, 32GB RAM).
-*   **Vibe:** Coding with intention.
+*   **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM)
+*   **Vibe:** Lonely, yet working productively :)
 
 ---
 

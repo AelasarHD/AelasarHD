@@ -20,7 +20,7 @@
 ---
 
 ### 🛠 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,html,java,js,nodejs,ts,mysql,bash&theme=dark" />
 </p>
 

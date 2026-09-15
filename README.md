@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" height=180px width=180px />
+  <img src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" height="180px" width="180px" />
 </p>
 
 <p align="center">Hey, I'm <b>AelasarHD</b>!</p>
@@ -11,18 +11,17 @@
 ---
 
 ### 🖋 About Me
-> **Every day is a progress.**
+> **Every day is progress.**
 
-*   **Current focus:** Crafting clean code and exploring new tech.
-*   **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM)
-*   **Vibe:** Building things and occasionally breaking them :)
+* **Current focus:** Python, local AI/LLMs and system-level projects.
+* **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM)
+* **Vibe:** Building things and occasionally breaking them :)
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,html,java,js,nodejs,ts,mysql,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,nodejs,mysql,bash,git,linux&theme=dark" />
 </p>
 
 ---
-

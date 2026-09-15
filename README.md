@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Hey, I'm <b>AelasarHD</b>!</p>
-<p align="center"><i>Full-Stack, Software Engineer</i></p>
+<p align="center"><i>Software Development • AI/LLMs • Systems & Hardware</i></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aelasarHD&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -15,7 +15,7 @@
 
 *   **Current focus:** Crafting clean code and exploring new tech.
 *   **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM)
-*   **Vibe:** Lonely, yet working productively :)
+*   **Vibe:** Building things and occasionally breaking them :)
 
 ---
 

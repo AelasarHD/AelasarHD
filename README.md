@@ -11,10 +11,10 @@
 ---
 
 ### 🖋 About Me
-> **Every day is progress.**
+> **I enjoy figuring out how things work.**
 
 * **Current focus:** Python, local AI/LLMs and system-level projects.
-* **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM)
+* **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM); Mac Mini M4 16GB
 * **Vibe:** Building things and occasionally breaking them :)
 
 ---

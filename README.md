@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" height="180px" width="180px" />
+  <img src="https://img1.picmix.com/output/stamp/normal/8/5/9/7/2747958_5a807.gif" width="160">
 </p>
 
 <p align="center">Hey, I'm <b>AelasarHD</b>!</p>
@@ -10,16 +10,16 @@
 
 ---
 
-### 🖋 About Me
+### About Me
+
 > **I enjoy figuring out how things work.**
 
-* **Current focus:** Python, local AI/LLMs and system-level projects.
-* **Hardware:** MacBook Pro 16 (i9 2.3GHz, 32GB RAM); Mac Mini M4 16GB
-* **Vibe:** Building things and occasionally breaking them :)
-
+-  **Currently:** Building Python applications and exploring DevOps
+-  **Hardware:** MacBook Pro 16" (i9, 2.3 GHz, 32 GB) · Mac mini M4 (16 GB)
+-  **Vibe:** Building things and occasionally breaking them :)
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,php,nodejs,mysql,bash,git,linux&theme=dark" />
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/8/5/9/7/2747958_5a807.gif" width="160">
+  <img src="https://img1.picmix.com/output/stamp/normal/8/5/9/7/2747958_5a807.gif" width="110">
 </p>
 
 <p align="center">Hey, I'm <b>AelasarHD</b>!</p>
